@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="actions">
+    <file>ico/16x16/actions/db_comit.png</file>
+    <file>ico/16x16/actions/project_open.png</file>
+    <file>ico/16x16/actions/edit.png</file>
+    <file>ico/16x16/actions/edit_remove.png</file>
+    <file>ico/16x16/actions/edit_add.png</file>
+    <file>ico/16x16/mimetypes/doc.png</file>
+    <file>ico/16x16/actions/fileimport.png</file>
+    <file>ico/16x16/actions/run.png</file>
+    <file>ico/16x16/actions/filesaveas.png</file>
+    <file>ico/16x16/actions/filesave.png</file>
+    <file>ico/16x16/actions/fileopen.png</file>
+    <file>ico/16x16/mimetypes/spreadsheet_document.png</file>
+    <file>ico/16x16/actions/folder_new.png</file>
+    <file>ico/16x16/actions/configure.png</file>
+    <file>ico/16x16/actions/filefind.png</file>
+    <file>ico/16x16/actions/exit.png</file>
+    <file>ico/16x16/actions/info.png</file>
+  </qresource>
+  <qresource prefix="Pixmap">
+    <file>ico/16x16/mimetypes/applix.png</file>
+    <file>ico/16x16/filesystems/file_doc.png</file>
+    <file>ico/16x16/filesystems/folder_open.png</file>
+    <file>ico/64x64/mimetypes/document.png</file>
+  </qresource>
+</RCC>
